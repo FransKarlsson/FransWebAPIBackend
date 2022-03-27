@@ -5947,11 +5947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frans.karlsson\\Desktop\\dotnetProjekt\\dotnetProjekt.csproj",
+      "projectUniqueName": "C:\\Users\\frans.karlsson\\Documents\\GitHub\\webShop\\dotnetProjekt\\dotnetProjekt.csproj",
       "projectName": "dotnetProjekt",
-      "projectPath": "C:\\Users\\frans.karlsson\\Desktop\\dotnetProjekt\\dotnetProjekt.csproj",
+      "projectPath": "C:\\Users\\frans.karlsson\\Documents\\GitHub\\webShop\\dotnetProjekt\\dotnetProjekt.csproj",
       "packagesPath": "C:\\Users\\frans.karlsson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frans.karlsson\\Desktop\\dotnetProjekt\\obj\\",
+      "outputPath": "C:\\Users\\frans.karlsson\\Documents\\GitHub\\webShop\\dotnetProjekt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\frans.karlsson\\AppData\\Roaming\\NuGet\\NuGet.Config",

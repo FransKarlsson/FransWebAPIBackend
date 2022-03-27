@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/KpJkqaN3WkIc22YN59DJHsAJRonXsqpt/hQx9oSy21ikFL8c8eLcWflWV9LOrRfRss/kBChWI/k657DScAJ8A==",
+  "dgSpecHash": "IGW9cdz0qiJOZ0AHjEVJmqOiXNNybQMNwbO5jL/lSm/CiYk11Tf4mGbyua+HyIoB7xi0Ky9svm70/s+Zhtm63A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\frans.karlsson\\Desktop\\dotnetProjekt\\dotnetProjekt.csproj",
+  "projectFilePath": "C:\\Users\\frans.karlsson\\Documents\\GitHub\\webShop\\dotnetProjekt\\dotnetProjekt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\frans.karlsson\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\frans.karlsson\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
