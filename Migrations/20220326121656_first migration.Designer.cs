@@ -10,7 +10,7 @@ using dotnetProjekt.Models;
 namespace dotnetProjekt.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220326121656_first migration")]
+    [Migration("20220326121656_first migration")] //gob
     partial class firstmigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
